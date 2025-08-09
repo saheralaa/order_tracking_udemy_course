@@ -8,11 +8,8 @@
         android:label="practical_google_maps_example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-
-                <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="YOUR_GOOGLE_MAP_API_KEY"/>
-
-
+         <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyDxeh_Ue5IGqr22qUBfxIsEyGc5d8pMxm8"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
